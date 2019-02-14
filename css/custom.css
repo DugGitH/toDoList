@@ -1,0 +1,16 @@
+/*index.css*/
+h2 {
+  color: green;
+}
+
+.delete {
+  margin-right: 5px;
+}
+
+.btn-outline-success {
+    border: 3px solid green;
+}
+
+mark{
+    background-color: darkgreen;
+}
